@@ -100,8 +100,8 @@ A typical simulation produces, at the end, the following files:
 
 .. code:: bash
 
-        ]$ tree IortTherapySimulationStarted_646/
-        IortTherapySimulationStarted_646/
+        ]$ tree FrattSimulationStarted_765/
+        FrattSimulationStarted_765/
         ├── std.err
         ├── std.txt
         ├── output.README
