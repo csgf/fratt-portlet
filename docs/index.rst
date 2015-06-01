@@ -107,16 +107,6 @@ A typical simulation produces, at the end, the following files:
         ├── output.README
         └── results.tar.gz
 
-The list of files produced during the run are the following:
-
-.. code:: bash
-
-        ]$ tar ztvf results.tar.gz
-        currentEvent.rndm
-        currentRun.rndm
-        Dose.out
-        Energy_MeV.out
-
 ============
 Support
 ============
@@ -124,9 +114,6 @@ Please feel free to contact us any time if you have any questions or comments.
 
 .. _INFN: http://www.ct.infn.it/
 .. _INFN_LNS: http://www.lns.infn.it/
-.. _LATO: http://www.polooncologicocefalu.it/
-.. _MALAGA: http://www.uma.es/
-.. _5: http://www.conservatoriocimarosa.org/
 
 :Authors:
  
