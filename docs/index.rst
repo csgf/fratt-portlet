@@ -7,14 +7,16 @@ About
 ============
 
 .. _1: http://www.ro-journal.com/content/8/1/80
+.. _INFN_LNS: http://www.lns.infn.it/
+.. _GEANT4: http://geant4.cern.ch/
 
-The application simulates the FRATT (FRAgmentation in Thick Targets) experimental setup performed at LNS-INFN. The simulation reproduces the fragmentation of carbon ions in tissue equivalent targets (i.e. bone, lung and muscle). When the simulation has finished, a comparison between experimental and simulated data is also provided.
+The application simulates the FRATT (FRAgmentation in Thick Targets) experimental setup performed at INFN_LNS_. The simulation reproduces the fragmentation of carbon ions in tissue equivalent targets (i.e. bone, lung and muscle). When the simulation has finished, a comparison between experimental and simulated data is also provided.
 
 Hadrontherapy with carbon ions is a novel technique of high precision external radiotherapy. It offers, in respect to conventional radiotherapy, interesting advantages yielding a better perspective for tumor treatment. Indeed, ion therapy allows for a higher tumor dose (sparing normal tissues in the entrance channel), steeper dose gradients and higher radiobiological effectiveness. (In particular, carbon ions are actually considered the optimal choice for the treatment of deep-seated radio-resistant tumors.)
 
-The only disadvantage of the ion therapy concerns the production of secondary charged particles because of the nuclear fragmentation process affecting the primary beam. Due to this reason we created an application using the Montecarlo simulation toolkit GEANT4, to have a comparison between experimental data and simulations about fragmentation of carbon ions in equivalent tissue (e.g. bone, muscle, lung).
+The only disadvantage of the ion therapy concerns the production of secondary charged particles because of the nuclear fragmentation process affecting the primary beam. Due to this reason we created an application using the Montecarlo simulation toolkit GEANT4_, to have a comparison between experimental data and simulations about fragmentation of carbon ions in equivalent tissue (e.g. bone, muscle, lung).
 
-Another important reason of FRATT application is to validate hadronic physics models present in GEANT4, e.g. Binary Cascade and QMD, because in the range of interest in hadrontherapy (60-400 MeV/u) there are not enough data about nuclear fragmentation.
+Another important reason of FRATT application is to validate hadronic physics models present in GEANT4_, e.g. Binary Cascade and QMD, because in the range of interest in hadrontherapy (60-400 MeV/u) there are not enough data about nuclear fragmentation.
 
 Hadronic models validation could be very useful in the early future to create new TPS (Treatment Planning Sistem) in treatments with carbon ions.
 
