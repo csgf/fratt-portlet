@@ -108,7 +108,7 @@ A typical simulation produces, at the end, the following files:
         └── results.tar.gz
 
 ============
-Contact
+Contributor(s)
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
@@ -117,13 +117,13 @@ Please feel free to contact us any time if you have any questions or comments.
 
 :Authors:
  
- `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+ Roberto BARBERA - Italian National Institute of Nuclear Physics (INFN_),
 
- `Davide D'URSO <mailto:davide.durso@hotmail.it>`_ - Italian National Institute of Nuclear Physics (LNS) INFN_LNS_,
+ Davide D'URSO - Italian National Institute of Nuclear Physics (LNS) INFN_LNS_,
   
- `Giuseppe Antonio Pablo CIRRONE <mailto:cirrone@gmail.com>`_ - Italian National Institute of Nuclear Physics (LNS) INFN_LNS_,
+ Giuseppe Antonio Pablo CIRRONE - Italian National Institute of Nuclear Physics (LNS) INFN_LNS_,
  
- `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+ Giuseppe LA ROCCA - Italian National Institute of Nuclear Physics (INFN_),
  
- `Francesco ROMANO <mailto:francesco.romano@lns.infn.it>`_ - Italian National Institute of Nuclear Physics (LNS) INFN_LNS_,
+ Francesco ROMANO - Italian National Institute of Nuclear Physics (LNS) INFN_LNS_
  
