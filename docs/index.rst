@@ -1,5 +1,5 @@
 *********************
-FRATT Docs
+FRATT 
 *********************
 
 ============
@@ -108,7 +108,7 @@ A typical simulation produces, at the end, the following files:
         └── results.tar.gz
 
 ============
-Support
+Contact
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
@@ -127,6 +127,3 @@ Please feel free to contact us any time if you have any questions or comments.
  
  `Francesco ROMANO <mailto:francesco.romano@lns.infn.it>`_ - Italian National Institute of Nuclear Physics (LNS) INFN_LNS_,
  
-:Version: v1.1.1, 2015
-
-:Date: June 1st, 2015 11:45
