@@ -1,6 +1,6 @@
 <%
 /**************************************************************************
-Copyright (c) 2011-2013:
+Copyright (c) 2011-2015:
 Istituto Nazionale di Fisica Nucleare (INFN), Italy
 Consorzio COMETA (COMETA), Italy
 
